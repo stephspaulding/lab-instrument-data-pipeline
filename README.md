@@ -39,9 +39,9 @@ Regulatory Alignment: Architecture follows ALCOA+ principles (Attributable, Legi
 ### 📖 Key Documentation
 | Document | Focus Area |
 | :--- | :--- |
-🏗️ System Design	Scalability, Serverless triggers, and Cloud architecture.
-🧪 QC & Validation Logic	Automated Out-of-Spec (OOS) detection and thermal drift rules.
-🧬 Interop Standards	LOINC, UCUM, and FHIR DiagnosticReport mapping.
+| [🏗️ System Design	Scalability] | Serverless triggers, and Cloud architecture. |
+| [🧪 QC & Validation Logic] |	Automated Out-of-Spec (OOS) detection and thermal drift rules. |
+| [🧬 Interop Standards] | LOINC, UCUM, and FHIR DiagnosticReport mapping. |
 
 ### 🚀 Technical Stack
 Language: Python 3.9+ (Pandas, NumPy)
